@@ -14,6 +14,7 @@ public class Q02_Variables_Hipotenus {
         System.out.println("Hıpotenus ="+c);
         System.out.printf("%.2f",c);
 
+        System.out.println("denememe");
 
 
     }
